@@ -1,4 +1,4 @@
-# Theme-based-text-summarization
+# Theme-based-text-summarizer
 As a part of the HPE Catch Them Young (CTY) program, we implemented a theme-based text summarizer which supports multiple formats of input like pdf, docx, web, text, etc.
 
 Please follow this link for the demo of our project : 
